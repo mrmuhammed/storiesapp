@@ -1,0 +1,24 @@
+{
+  "name": "storiesapp",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mrmuhammed/storiesapp",
+  "authors": [
+    "Lee Muhammed <muhammedcode@gmail.com>"
+  ],
+  "description": "Dean and Lee project",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "underscore": "~1.5.2",
+    "jquery": "~2.0.3"
+  }
+}
